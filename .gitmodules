@@ -1,8 +1,8 @@
-[submodule "custom/themes/spaceship-prompt"]
-	path = custom/themes/spaceship-prompt
-  url = https://github.com/spaceship-prompt/spaceship-prompt.git
-  branch = master
-  update = rebase
+#[submodule "custom/themes/spaceship-prompt"]
+#	path = custom/themes/spaceship-prompt
+#  url = https://github.com/spaceship-prompt/spaceship-prompt.git
+#  branch = master
+#  update = rebase
 [submodule "custom/plugins/zsh-autosuggestions"]
 	path = custom/plugins/zsh-autosuggestions
   url = https://github.com/zsh-users/zsh-autosuggestions
